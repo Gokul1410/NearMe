@@ -232,29 +232,15 @@ margin-right: auto;
 </html>
  
 
- 
-
-
-
-
-
-<style>
-.centerimage{
-display: block;
-margin-left:auto;
-margin-right: auto;
-}
-</style>
-
 ```
 
 ## OUTPUT
-![alt text](index.png)
+![alt text](map.png)
 ![alt text](fort.png)
 ![alt text](college.png)
+![alt text](temple.png)
 ![alt text](hospital.png)
 ![alt text](dmart.png)
-![alt text](temple.png)
 
 ## RESULT
 The program for implementing image maps using HTML is executed successfully.
